@@ -1,3 +1,7 @@
+/*
+Tinkercad Devre linki : https://www.tinkercad.com/things/6awa2nXToig-copy-of-ohm-yasasi/editel?sharecode=uetCCy2kfBXTzO_e3rBGRg7CMxS5qJAUEcV-SC3iQBc
+*/
+
 float deger;
 float akm = 0.0;
 float akmA=0;
